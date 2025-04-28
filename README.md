@@ -20,19 +20,19 @@ https://colab.research.google.com/drive/13pL7G20oxr-SjgUWM4tmTSprNZVZgBT0?usp=sh
 Bowleys’s Coefficient 6
 https://colab.research.google.com/drive/1BgN8MYlwOFH2YwNXN6Lb7wmr_7_5qAnc?usp=sharing
 
-Karl Pearson’s Correlation
+Karl Pearson’s Correlation 7
 https://colab.research.google.com/drive/1tP4dugw0cji8z627A-TSB9iQr-10vdrV?usp=sharing
 
-Spearman correlation
+Spearman correlation 8
 https://colab.research.google.com/drive/185UQvIXy2r4oNccSfIcIUMchEXLppOBn?usp=sharing
 
-data visualization n/c
+data visualization n/c 9
 https://colab.research.google.com/drive/1A9NRIUsP8nNvAGYumzUK_ny8E3LvgPy-?usp=sharing
 
-data visulizaton u
+data visulizaton u 10
 https://colab.research.google.com/drive/1ma7wjNCxudAncXaGJvri23VB5RkIps2W?usp=sharing
 
-data visualization m
+data visualization m 11
 https://colab.research.google.com/drive/11_2rBIzejN40oJ-fGPUomwu5oNBZTqiO?usp=sharing
 
 
