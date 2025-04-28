@@ -6,6 +6,7 @@ https://colab.research.google.com/drive/19sUuDKtq21QdDgE8ceOy_cPvEyfxUxCz?usp=sh
 
 Measure of variation 2
 https://colab.research.google.com/drive/1IgHH9zoerQ7ndptFYqw0K9_wYeOR9A2S?usp=sharing
+https://colab.research.google.com/drive/1lOGo-lC4gyA7SmqvBe8ApqoF5_cvA6xb
 
 Data cleaning 3
 https://colab.research.google.com/drive/15248WjBMYSz_FSuvnHR_L2YpIh4JDRr7?usp=sharing
